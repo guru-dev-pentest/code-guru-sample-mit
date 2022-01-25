@@ -88,7 +88,3 @@ After you're finished with this demo, clean up your resources.
 
 For more information about how to use CodeGuru Reviewer, see the [Amazon CodeGuru Reviewer User Guide](https://docs.aws.amazon.com/codeguru/latest/reviewer-ug/index.html).
 
-## License
-
-This library is licensed under the MIT-0 License. See the LICENSE file.
-
